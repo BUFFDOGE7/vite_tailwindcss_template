@@ -14,5 +14,9 @@
   "type": "commonjs",
   "devDependencies": {
     "vite": "^8.0.14"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "tailwindcss": "^4.3.0"
   }
 }
