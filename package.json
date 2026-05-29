@@ -2,7 +2,6 @@
   "name": "vite_tailwind_template",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,9 +10,9 @@
   "keywords": [],
   "author": "The Fridge",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
-    "vite": "^8.0.14"
+    "vite": "^6.3.5"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.0",
